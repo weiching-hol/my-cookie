@@ -1,0 +1,7 @@
+my\-cookie module
+=================
+
+.. automodule:: my-cookie
+   :members:
+   :undoc-members:
+   :show-inheritance:
